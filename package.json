@@ -1,0 +1,42 @@
+{
+  "name": "sodagreen-theme",
+  "displayName": "Sodagreen Theme",
+  "publisher": "AyakoSky",
+  "description": "A light theme based on morandi colours",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "auth": {
+    "name": "AyakoSky",
+    "email": "ayakosky@gmail.com",
+    "url": "https://github.com/ayako02"
+  },
+  "keywords": [
+    "theme",
+    "green",
+    "soda",
+    "sodagreen",
+    "light",
+    "kawaii",
+    "lightgreen",
+    "morandi",
+    "blue",
+    "light blue",
+    "sodawater",
+    "water"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sodagreen Theme",
+        "uiTheme": "vs",
+        "path": "./themes/theme.json"
+      }
+    ]
+  }
+}
