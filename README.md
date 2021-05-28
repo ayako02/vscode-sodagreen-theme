@@ -2,6 +2,8 @@
 
 ### Preview 卖家秀
 
+![Preview](https://github.com/ayako02/vscode-sodagreen-theme/blob/main/assets/sample.png)
+
 ### Introduction
 
 A light and soda feel theme that created based on morandi & chinese classic colours. It currently supports editor version above `1.54.0` only.
