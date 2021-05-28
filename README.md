@@ -4,7 +4,7 @@
 
 ### Introduction
 
-A light colour theme that created based on morandi & chinese classic colours. It currently supports editor version above `1.54.0` only.
+A light and soda feel theme that created based on morandi & chinese classic colours. It currently supports editor version above `1.54.0` only.
 
 Is it advisabled to lower down your screen brightness in order to protect your eyeside when you're using this theme. It definitely looks much more comfortable in a dimmer screen.
 

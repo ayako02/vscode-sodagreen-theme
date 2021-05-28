@@ -9,6 +9,12 @@
     "titleBar.activeBackground": "#ADC9AF",
     "titleBar.activeForeground": "#FFF",
 
+    // Editor's breadcrump
+    "breadcrumb.foreground": "#645085",
+    "breadcrumbPicker.background": "#FAFAF1",
+    "breadcrumb.focusForeground": "#3E87BB",
+    "breadcrumb.activeSelectionForeground": "#888CCC",
+
     // Editor's bottom bar
     "statusBar.background": "#ADC9AF",
     "statusBar.noFolderBackground": "#ADC9AF",
@@ -120,7 +126,13 @@
     "terminal.ansiMagenta": "#888CCC",
     "terminal.ansiBrightMagenta": "#DB81CC",
     "terminal.ansiWhite": "#72696f",
-    "terminal.ansiBrightWhite": "#978c94"
+    "terminal.ansiBrightWhite": "#978c94",
+
+    // Coding Peekview
+    "peekViewEditor.matchHighlightBorder": "#FF9EB5",
+    "peekViewEditor.matchHighlightBackground": "#F7F5D8",
+    "peekViewResult.background": "#faf7fa",
+    "peekViewResult.matchHighlightBackground": "#F7F5D8"
   },
   "tokenColors": [
     {
@@ -405,7 +417,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#888CCC"
+        "foreground": "#645085"
       }
     },
     {
@@ -432,7 +444,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#78b1fc"
+        "foreground": "#3E87BB"
       }
     },
     {

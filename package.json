@@ -2,7 +2,8 @@
   "name": "sodagreen-theme",
   "displayName": "Sodagreen Theme",
   "publisher": "AyakoSky",
-  "description": "A light theme based on morandi colours",
+  "icon": "assets/logo.jpeg",
+  "description": "A light and soda feeling theme based on morandi colours",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.54.0"
@@ -38,7 +39,7 @@
     "sodawater",
     "water",
     "white",
-    "yellow,"
+    "yellow"
   ],
   "contributes": {
     "themes": [
