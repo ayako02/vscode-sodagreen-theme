@@ -4,7 +4,7 @@
   "publisher": "AyakoSky",
   "icon": "assets/logo.jpg",
   "description": "A light and soda feeling theme based on morandi colours",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.54.0"
   },

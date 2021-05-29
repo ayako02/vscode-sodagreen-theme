@@ -1,5 +1,9 @@
 # Change Log
 
+### [V.0.0.4]
+
+- Updated colours of Markup and JSON
+
 ### [V.0.0.3]
 
 - Added active line number colour
