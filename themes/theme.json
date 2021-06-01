@@ -1,5 +1,5 @@
 {
-  "name": "Classic-CN Theme",
+  "name": "Sodagreen Theme",
   "type": "light",
   "colors": {
     "editor.background": "#FAFAF1",
@@ -18,7 +18,7 @@
     // Editor's bottom bar
     "statusBar.background": "#ADC9AF",
     "statusBar.noFolderBackground": "#ADC9AF",
-    "statusBar.debuggingBackground": "##3E87BB",
+    "statusBar.debuggingBackground": "#3E87BB",
 
     // Editor's icon sidebar
     "activityBar.border": "#ADC9AF",
@@ -213,7 +213,6 @@
         "foreground": "#364b4c"
       }
     },
-
     {
       "name": "Function Call Variable",
       "scope": "variable.other.property",

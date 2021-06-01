@@ -1,10 +1,15 @@
 # Change Log
 
-### [V.0.0.4]
+### [V0.0.5]
+
+- Updated Readme by fixing the preview image link along with the github repo link. Added new notice for the releasing of night version.
+- Fixed the debugging colour of bottom bar
+
+### [V0.0.4]
 
 - Updated colours of Markup and JSON
 
-### [V.0.0.3]
+### [V0.0.3]
 
 - Added active line number colour
 - Added editor's breadcrump colours

@@ -2,7 +2,7 @@
 
 ### Preview 卖家秀
 
-![Preview](https://github.com/ayako02/vscode-sodagreen-theme/blob/main/assets/sample.png)
+![Preview](https://github.com/ayako02/vscode-sodagreen-theme/blob/main/assets/sample.png?raw=true)
 
 ### Introduction
 
@@ -18,6 +18,12 @@ Feel free to submit any issues or suggestions to my [Github](https://github.com/
 Give me stars 🌟🌟🌟🌟🌟 if you like the theme! :D <3
 Your encouragement is always my motivation!
 
+#### The Night Sodagreen
+
+There's a night version of this theme!
+Here's the official link for it: [Sodagreen Night Theme](https://marketplace.visualstudio.com/items?itemName=AyakoSky.sodagreen-night-theme)
+Feel free to search `Sodagreen Night Theme` and download it from the marketplace.
+
 **Happy coding! Cheers!**
 
 # VSCode 主题 —— 苏打绿
@@ -28,7 +34,7 @@ Your encouragement is always my motivation!
 
 这款主题只支持`1.54.0`以上的编辑器版本。
 日后还会添加其他新元素，敬请期待。
-如果你有什么建议/疑问，可以透过我的[Github](https://github.com/ayako02/fluffy-theme)告诉我哟～～
+如果你有什么建议/疑问，可以透过我的[Github](https://github.com/ayako02/vscode-sodagreen-theme)告诉我哟～～
 
 这款皮肤同时也在致敬苏打绿！你们是 90 后的青春，也是 90 后永远的夏天。
 现在 90 后都是社会人士了。
